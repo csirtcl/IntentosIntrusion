@@ -1,0 +1,16 @@
+CSIRT-CL
+
+IoC's de Intentos de acceso – Fuerza bruta
+Informe Codigo:4IIA22-00056-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+
+Fuerza Bruta
+----------------------------------------------------------------
+AS		103.14.225.215
+AS		45.139.105.111
+AS		37.139.128.9
+AS		37.139.128.22
+AS		185.246.221.244
+AS		187.9.120.131
