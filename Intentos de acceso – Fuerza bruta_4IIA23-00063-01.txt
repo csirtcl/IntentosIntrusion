@@ -1,0 +1,16 @@
+CSIRT-CL
+
+IoC's de Intentos de acceso – Fuerza bruta
+Informe Codigo:4IIA23-00063-01
+TLP: Blanco
+Nivel Riesgo: Alto
+
+
+Fuerza Bruta
+----------------------------------------------------------------
+AS	204428	80.94.95.205
+AS	15828	46.148.40.131
+AS	15828	46.148.40.24
+AS	15828	46.148.40.98
+AS	15828	46.148.40.177
+AS	204428	80.94.95.204
